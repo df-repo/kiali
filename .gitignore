@@ -42,4 +42,3 @@ hack/*.local.sh
 tests/e2e/.pytest_cache
 tests/e2e/**/__pycache__
 tests/e2e/.kiali-e2e/
-
